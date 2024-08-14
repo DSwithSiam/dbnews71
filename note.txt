@@ -1,0 +1,5 @@
+Project Name: dbnews71
+App Name: Posts, Users, 
+
+Posts: Categories, Tags, New Post, All Post
+Users: Admin, Editor
